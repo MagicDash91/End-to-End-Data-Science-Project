@@ -8,7 +8,7 @@ def read_data_from_postgresql():
     jdbc_url = "jdbc:postgresql://localhost:5432/project2"
     connection_properties = {
         "user": "postgres",
-        "password": "permataputihg101",
+        "password": "************************",
         "driver": "org.postgresql.Driver"
     }
 
